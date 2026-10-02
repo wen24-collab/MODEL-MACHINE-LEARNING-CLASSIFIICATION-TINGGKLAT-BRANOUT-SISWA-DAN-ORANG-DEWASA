@@ -1,0 +1,191 @@
+[33mcommit 63262c9117e773bfb3cd23ff2718cb4b7b009c5b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: wen24-collab <kakun8687@gmail.com>
+Date:   Fri Sep 4 22:27:50 2026 +0700
+
+    fix eror
+
+[33mcommit 3a46bdd7bbcf0613a7c6e171ac39360458788579[m
+Author: wen24-collab <kakun8687@gmail.com>
+Date:   Wed Sep 2 18:50:03 2026 +0700
+
+    cek
+
+[33mcommit 7befbf41be518b7156d7d39b01ffec7b4b116e9c[m
+Author: wen24-collab <kakun8687@gmail.com>
+Date:   Wed Sep 2 14:04:28 2026 +0300
+
+    update
+
+[33mcommit 111399281b47a73a678aca6328c26b69aa3c2a70[m[33m ([m[1;32magents/fix-duplicate-column-error-cell73[m[33m)[m
+Author: wen24-collab <kakun8687@gmail.com>
+Date:   Fri Aug 28 19:43:30 2026 +0300
+
+    eror handling outliers
+
+[33mcommit aefb19ab0e47127470a77ef9338b125e56828c2c[m
+Author: wen24-collab <kakun8687@gmail.com>
+Date:   Thu Aug 27 15:01:20 2026 +0300
+
+    fix: normal contribution sync
+
+[33mcommit 309cd1c3e86f896f72f00bfec2313089d61b84fd[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Thu Aug 27 14:07:37 2026 +0300
+
+    update
+
+[33mcommit 841a4af8c35b20083931e3c439dc92ccbfbb23c4[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Wed Aug 26 20:06:52 2026 +0300
+
+    scaling data trasfrom data kategoril dan numerik
+
+[33mcommit fa6c01840793cea6f059a00bb0c78e0ba1158263[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Mon Aug 24 18:20:44 2026 +0300
+
+    scaling data
+
+[33mcommit 5ab46bbfe2874a91166b670e7c4b28ce6fe2ae85[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Sun Aug 23 19:55:39 2026 +0300
+
+    tes setelah sinkronisasi jam
+
+[33mcommit 1dfc44fb1512fdfcd704e53162dbfdb5eddd5267[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Sun Aug 23 19:49:22 2026 +0300
+
+    pancing kotak hijau sukses
+
+[33mcommit d7cdf687c3c80cb8f51902785e38a3981b541780[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Sun Aug 23 19:41:26 2026 +0300
+
+    hahah
+
+[33mcommit 3a5f8bba76e94b36d57934ebc6eb8c13f05469e5[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Sun Aug 23 19:33:27 2026 +0300
+
+    scaling data nummerik
+
+[33mcommit ca59802280a30792b9d87ad8176caf4333666e9b[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Fri Aug 21 19:12:51 2026 +0300
+
+    encoding data ketegorik
+
+[33mcommit bbf07d5687d112a2b2aa8b9e162589524169b12b[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Wed Aug 19 19:28:14 2026 +0300
+
+    encoding data kategorik
+
+[33mcommit 67403a662e8ef0f95b004c3bb4c32f4b77c806ea[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Mon Aug 17 18:27:54 2026 +0300
+
+    prubahan pada data set dan anlisa
+
+[33mcommit bf90e6dcb11a42c29c18db6aef11d292ed7d46a1[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Tue Aug 11 11:51:51 2026 +0300
+
+    update
+
+[33mcommit 90e5ec726c570746d04a4cee4454c53c7ed7df39[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Tue Aug 11 06:56:22 2026 +0300
+
+    final EDA
+
+[33mcommit c8e3c1841b1f567316285277d06ea11f1be5fa7f[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Mon Aug 10 06:19:37 2026 +0300
+
+    final df dan ukuran pemusatan data
+
+[33mcommit 2c657fd3e76f30cc4840ce092d346aa75f420008[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Thu Jul 30 19:17:03 2026 +0300
+
+    update distirbusi frekunsi 2
+
+[33mcommit d5e3433d29e9f9d3af50007a843269c32e6f5fbc[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Wed Jul 29 20:15:10 2026 +0300
+
+    update ditribusi frekuensi
+
+[33mcommit 166136fb127e341d95f6785f8197dffbd874ca63[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Sun Jul 26 19:55:30 2026 +0300
+
+    ditirbusi frekuensi
+
+[33mcommit e672a5bb7ab2f9baf90a70f0020d315ed5d1e551[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Thu Jun 25 20:14:34 2026 +0300
+
+    update kolerasi boxplot
+
+[33mcommit f9eb37df6fa523d633cea1825ee492d66cb751d3[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Tue Jun 16 19:16:24 2026 +0300
+
+    update porporsi
+
+[33mcommit 0511b8ac39828b6f4794d160b293d38c2ff77657[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Tue Jun 16 15:10:55 2026 +0300
+
+    update flow
+
+[33mcommit 41e3844867443aac6f2745d070a6fcb16a2931da[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Sun Jun 14 06:40:42 2026 +0300
+
+    EDA target
+
+[33mcommit 026ec07363ece24711885fa0ba3c9373c88e42e8[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Wed Jun 3 19:27:15 2026 +0300
+
+    menganlisis data distribusi kategorial
+
+[33mcommit 5fd5455919912a4697c1b04bf4e4137f906d33ef[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Tue Jun 2 18:52:00 2026 +0300
+
+    melihat distribusi data
+
+[33mcommit 2ee189e55f3bd23c7113c4e9adf18c2ce2fba5de[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Thu May 21 23:38:43 2026 +0700
+
+     outliers detectore
+
+[33mcommit b36f84e99a7c4ac18cd80d3466fda4140df20984[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Thu May 21 13:57:03 2026 +0300
+
+    melihat nilai median dalam data
+
+[33mcommit 983265afa56871c69711936ac2c853d83467c4c1[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Sun May 17 20:02:56 2026 +0300
+
+    data claning
+
+[33mcommit 6bf036d46e796f72b69d8db08294e62fd6e9ef9c[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Sat May 16 19:16:30 2026 +0300
+
+    memasukan data set
+
+[33mcommit e6e77c81cbc41c099c99c6ce09ee0f9e923c22e6[m
+Author: wen24-collab <kakun8678@gmail.com>
+Date:   Fri May 15 20:05:20 2026 +0300
+
+    model classification prediksi kelulusan siswa
