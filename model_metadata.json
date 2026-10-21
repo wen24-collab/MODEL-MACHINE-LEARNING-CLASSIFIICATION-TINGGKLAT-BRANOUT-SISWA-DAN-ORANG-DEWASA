@@ -1,0 +1,139 @@
+{
+  "trained_at": "2026-10-20T16:13:13.938215+00:00",
+  "source": "prediksi_branour.ipynb",
+  "rows": 2000,
+  "test_size": 0.3,
+  "random_state": 42,
+  "selected_model": "ExtraTrees-500",
+  "features": [
+    "study_hours_per_day",
+    "exam_pressure",
+    "stress_level",
+    "anxiety_score",
+    "depression_score",
+    "sleep_hours",
+    "physical_activity",
+    "social_support",
+    "financial_stress",
+    "family_expectation",
+    "mental_health_index",
+    "dropout_risk",
+    "stress_group",
+    "support_group",
+    "age_group"
+  ],
+  "normal_features": [
+    "study_hours_per_day",
+    "exam_pressure",
+    "stress_level",
+    "anxiety_score",
+    "sleep_hours",
+    "physical_activity",
+    "social_support",
+    "financial_stress",
+    "family_expectation",
+    "mental_health_index",
+    "stress_group",
+    "support_group",
+    "age_group"
+  ],
+  "skewed_features": [
+    "depression_score",
+    "dropout_risk"
+  ],
+  "cap_bounds": {
+    "study_hours_per_day": [
+      -2.5885738280438413,
+      2.5774527288731517
+    ],
+    "exam_pressure": [
+      -2.76128262093272,
+      2.7821942051218915
+    ],
+    "stress_level": [
+      -2.73656225998813,
+      2.730467365314828
+    ],
+    "anxiety_score": [
+      -2.841859290064362,
+      2.8247985804112954
+    ],
+    "depression_score": [
+      -4.458395167393547,
+      4.059887413125947
+    ],
+    "sleep_hours": [
+      -2.7934303576346395,
+      2.765048490603705
+    ],
+    "physical_activity": [
+      -2.7973498388903772,
+      2.790164505426725
+    ],
+    "social_support": [
+      -2.620970647367365,
+      2.6354573572344915
+    ],
+    "financial_stress": [
+      -2.7315704077438463,
+      2.731008087513813
+    ],
+    "family_expectation": [
+      -2.7107507600935064,
+      2.7505024324443603
+    ],
+    "mental_health_index": [
+      -2.7768906461069656,
+      2.819585116802773
+    ],
+    "dropout_risk": [
+      -4.376935984948954,
+      3.976860980924015
+    ]
+  },
+  "feature_importance": {
+    "study_hours_per_day": 0.029574146182308584,
+    "exam_pressure": 0.049692159962807805,
+    "stress_level": 0.14819161334045455,
+    "anxiety_score": 0.09351316945694295,
+    "depression_score": 0.09328856914944701,
+    "sleep_hours": 0.08487955417751081,
+    "physical_activity": 0.028099713146931597,
+    "social_support": 0.03152132393069082,
+    "financial_stress": 0.031811406492489064,
+    "family_expectation": 0.03145413129218394,
+    "mental_health_index": 0.15398341192988632,
+    "dropout_risk": 0.12976052605594357,
+    "stress_group": 0.028946779175184293,
+    "support_group": 0.03743654026545798,
+    "age_group": 0.027846955441760825
+  },
+  "cv_results": [
+    {
+      "model": "ExtraTrees-500",
+      "accuracy_cv": 0.8635714285714287,
+      "macro_f1_cv": 0.6133725309868937
+    },
+    {
+      "model": "ExtraTrees-100",
+      "accuracy_cv": 0.8614285714285714,
+      "macro_f1_cv": 0.5895872681122379
+    },
+    {
+      "model": "ExtraTrees-300",
+      "accuracy_cv": 0.8600000000000001,
+      "macro_f1_cv": 0.6102069533205728
+    }
+  ],
+  "metrics": {
+    "accuracy": 0.85,
+    "macro_f1": 0.6541148509314599
+  },
+  "versions": {
+    "python": "3.10.11",
+    "numpy": "1.26.4",
+    "pandas": "2.1.4",
+    "scikit-learn": "1.4.2",
+    "joblib": "1.3.2"
+  }
+}

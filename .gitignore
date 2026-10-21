@@ -1,1 +1,11 @@
-.venv/ 
+.venv/
+__pycache__/
+*.pyc
+logs.log
+tatus --ignored
+tes.txt
+get-pip.py
+model.py
+flask-removebg-preview.png
+image_3ffeb294-removebg-preview.png
+l-removebg-preview.png
